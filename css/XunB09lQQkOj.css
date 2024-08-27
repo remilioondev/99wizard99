@@ -675,7 +675,7 @@ hr {
     }
 
     #sbs-1308 .cs-image-group {
-        width: 40%;
+        width: 100%;
         max-width: 41.875rem;
         min-height: 41.875rem;
         max-height: 100%;
